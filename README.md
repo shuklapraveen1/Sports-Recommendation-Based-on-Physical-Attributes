@@ -81,4 +81,3 @@ To build a predictive model that:
 
 ---
 
-Feel free to contribute or raise issues in the [GitHub repo](https://github.com/shuklapraveen1/Sports-Recommendation-Based-on-Physical-Attributes)!
